@@ -1,0 +1,2 @@
+# SensorPositioningWithMaxima
+maximaに等価電流法による位置推定の式を実装
